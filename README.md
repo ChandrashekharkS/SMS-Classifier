@@ -50,7 +50,7 @@ The SMS Classifier is a machine learning project that identifies and classifies 
 
 ## Dataset
 
-The dataset used for this project is a collection of SMS messages labeled as spam or ham. You can find and download the dataset [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection).
+The dataset used for this project is a collection of SMS messages labeled as spam or ham. You can find and download the dataset [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ## Model
 
